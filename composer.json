@@ -5,14 +5,8 @@
     "keywords": ["boleto", "boleto bancario","jasper"],
     "homepage": "http://github.com/quilhasoft/jasperphp-openboleto",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Rogerio Muniz de Castro",
-            "email": "rogerio@quilhasoft.com.br"
-        }
-    ],
     "require": {
-        "php": ">=7.0",
+        "php": ">=5.3",
         "openboleto/openboleto":"dev-master",
         "quilhasoft/jasperphp":"dev-master"
     }
